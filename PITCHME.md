@@ -29,9 +29,11 @@ What's the best thing that happened at the last conference you attended?
 
 # Open Spaces are a simple methodology for Self Organising conferences
 
+They take the best bits, and make a whole experience out of them.
+
 ---
 
-Sessions are conversations, curated entirely by attendees
+Sessions are conversations, curated and led entirely by attendees
 
 ---
 
@@ -49,12 +51,12 @@ Each Open Space experience is unique in some way.
 
 ---
 
-So what does the event person need to do?
+So what do you (the Event Professional) need to do?
 
- - Sources the theme / topic
- - Finds and Books the space
- - Creates the empty agenda
- - Welcomes attendees and kicks things off 
+ - Source the theme / topic
+ - Find and book the space
+ - Create the empty agenda
+ - Welcome attendees and kick things off 
  
 (more on each of these later)
 
@@ -67,14 +69,14 @@ So what does the event person need to do?
 
 ---
 
-# What about Unconferences?
+# What about "Unconferences"?
 
 ---
 
 # The Benefits of Open Spaces
 
- - To the Attendee
- - To the Organiser
+ - To the Attendee...
+ - To the Organiser...
  
 ---
 
@@ -82,12 +84,29 @@ So what does the event person need to do?
 
 ---
 
-## Picking a Theme
+# Making the concept non-intimdating
 
+Potential attendees worry:
+ - can I contribute anything?
+ - Do I need to prepare anything?
 
 ---
 
-### Finding and Booking the Event Space
+# Picking a Theme
+
+---
+
+# Finding and Booking the Event Space
+
+---
+
+# Welcome / Kickoff
+
+You need to cover:
+ - Open Spaces Guidelines
+ - The Law of Two Feet
+ - How to Lead and How to Attend Open Spaces Sessions
+ - Inverting Your Participation Mode
 
 ---
 

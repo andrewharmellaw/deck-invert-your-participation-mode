@@ -11,6 +11,10 @@
 
 ---
 
+I've made this deck so you can use it to help you put on an Open Space.
+
+---
+
 # What Are Open Spaces?
 
 --- 
@@ -41,11 +45,14 @@ Frequently other aspects self-organise too
 
 Each Open Space experience is unique in some way.
 
+(Quite often topics will be raised which are off the topic of the originally proposed topic) 
+
 ---
 
 So what does the event person need to do?
 
- - Books the space
+ - Sources the theme / topic
+ - Finds and Books the space
  - Creates the empty agenda
  - Welcomes attendees and kicks things off 
  
@@ -60,6 +67,10 @@ So what does the event person need to do?
 
 ---
 
+# What about Unconferences?
+
+---
+
 # The Benefits of Open Spaces
 
  - To the Attendee
@@ -71,7 +82,18 @@ So what does the event person need to do?
 
 ---
 
+## Picking a Theme
+
+
+---
+
+### Finding and Booking the Event Space
+
+---
+
 # What Can Be Hard
 
  - Attendees writing business cases to attend
  - Finding the right space
+ - You still need a Code of Conduct
+ - It won't be for everyone

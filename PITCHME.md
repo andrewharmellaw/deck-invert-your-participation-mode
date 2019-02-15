@@ -1,5 +1,5 @@
 # Invert Your Participation Mode
-## Why Open Spaces Conferences Change Everything (and How to Run One)
+## How Open Spaces Conferences Change Everything (and How to Run One)
 
 ---
 
@@ -115,4 +115,4 @@ You need to cover:
  - Attendees writing business cases to attend
  - Finding the right space
  - You still need a Code of Conduct
- - It won't be for everyone
+ - It won't be for everyon

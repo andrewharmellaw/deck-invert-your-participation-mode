@@ -17,6 +17,10 @@ The best fun has been speaking, and open spaces.
 
 Hopefully some / all of what I’m about to share will be useful to you. 
 
+I've only a short period of time, so I want to tell you about attending my first open spaces, and then about putting on my first open spaces. 
+
+I'd be SUPER-HAPPY to take questions, and have a chat about all this at the end or afterwards over social media or whatever. (I could talk about this FOR EVER.)
+
 ---
 
 # Part 2 - My first open spaces
@@ -81,9 +85,13 @@ When I did it myself, when I brought the roundup to the UK for the first time, a
 
 ---
 
-Bruce actively sought to do as little as possible, but also he strove to create a community. One that was welcoming and inclusive. 
+Bruce actively sought to do as little as possible, but also he strove to create a community. One that was welcoming and inclusive.  This takes effort.  Effort to stay out of the way, but also effort to watch what is going on, and, behind the scenes, make sure nothing is being abused / undermined.
+
+---
 
 Code of Conduct
+
+---
 
 Speaking to people in the background - very like the Quaker Model of disruptors at meeting
 
@@ -99,15 +107,39 @@ This raises another problem for delegates. Selling it to their boss. A conferenc
 
 ---
 
-He had an experimental mindset - every year we’d try some changes. Some would work (slack) some didn’t (an online board)
-
----
-
 There are no “sponsors” but bringing schwag and sponsoring a dinner is fine. 
 
 ---
 
 Numbers: 70/80 is the max
+
+---
+
+# Conclusion
+
+---
+
+I'm aware, having contributed to setting up and running "classic" eyes-front conferences, that almost everything about Open Spaces will sound different.
+
+It's almost "invert your organisation mode"
+
+Hopefully I've given you enough info on how to run one that your interest is piqued.
+
+---
+
+But if there's so little to do, why should you, as an event professional care about them?
+
+I've a few reasons:
+
+1. there is a need for you, but it's not in the area of the last-minute, running-around busy-work - it's the fun, human, experience-facilitation stuff (It's MASSIVELY rewarding)
+1. Consequently they take up a lot less of your time
+1. Once you get confident you can experiment - every year we’d try some changes. Some would work (slack) some didn’t (an online board)
+1. it'll restore your faith in humanity, and hence your energy banks - it's like a detox
+
+---
+
+My Contact details:
+...
 
 
 ---

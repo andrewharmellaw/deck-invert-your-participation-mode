@@ -84,6 +84,7 @@ I kept going back.  I had some of the most rewarding and self-developmental expe
 
 # Part 3 - things I learned when putting these on myself. 
 
+---
 
 So much appeared to happen “as if by magic” those first few times. 
 

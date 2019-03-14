@@ -66,6 +66,12 @@ The afternoons also filled up - hackathons, demos, cross-country skiing, and mor
 
 ---
 
+I kept going back.  I had some of the most rewarding and self-developmental experiences of my entire career.
+
+(Quote from the WTF website)
+
+---
+
 # Part 3 - things I learned when putting these on myself. 
 
 

@@ -102,6 +102,12 @@ Code of Conduct
 
 Speaking to people in the background - very like the Quaker Model of disruptors at meeting
 
+It won't be for everyone. You need to manahge that too.
+
+---
+
+The right space
+
 ---
 
 He didn’t have to worry much about marketing / advertising as he was famous, had a massive network, and didn’t mind how big or small something was. 
@@ -111,6 +117,8 @@ I did, and it can be hard to explain what something like this is. What I did do 
 ---
 
 This raises another problem for delegates. Selling it to their boss. A conference that makes itself is a hard sell. 
+
+This is the main reason the OPen Spaces I attend have themes - so they sound valuble to the people paying
 
 ---
 

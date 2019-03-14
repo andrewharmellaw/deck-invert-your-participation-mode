@@ -47,6 +47,8 @@ Arrived
 
 Others who had been there previously were putting up pieces of paper and collecting “you can record me” consent forms. 
 
+---
+
 Kicked off by Bruce. 
 
 We were all in a circle. After warning about altitude sickness he explained the expectations, the mechanics, how to lead a session and how to attend one (invert your participation mode) and the one rule. 
@@ -67,6 +69,10 @@ After the first session a LOT MORE sessions got proposed. People also started cu
 ---
 
 The afternoons also filled up - hackathons, demos, cross-country skiing, and more. This all self-organised. Lunches and dinners self-organised too. 
+
+---
+
+We'd also built a community - in the intervening 53 months of the year we kept up with each other on slack and email.
 
 ---
 

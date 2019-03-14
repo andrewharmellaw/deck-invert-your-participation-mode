@@ -134,7 +134,7 @@ Hopefully I've given you enough info on how to run one that your interest is piq
 
 ---
 
-But if there's so little to do, why should you, as an event professional care about them?
+But if there's so little for you as an event professional to do, why should you care about them?
 
 I've a few reasons:
 

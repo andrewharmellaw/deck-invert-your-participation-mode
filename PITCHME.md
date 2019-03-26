@@ -1,15 +1,14 @@
-# Invert Your Participation Mode
-## How Open Spaces Conferences Change Everything (and How to Run One)
+## Invert Your Participation Mode
+### or How Open Spaces Conferences Change Everything (and How to Run One)
 
 --- 
 
-# Who Am I?
-# The Introduction
+## Who Am I?
 
 ---
 
-## “Event Amateur”
 ![WTF 2019](assets/img/event-amateur-wtf2019-dkarlinsky.jpg) 
+## “Event Amateur”
 
 Note: 
  - Developer / Principal at ThoughtWorks (a global consultancy)
@@ -21,7 +20,7 @@ Note:
 
 ---
 
-# Part 1 - My first open spaces
+## Part 1 - My First Open Spaces
 
 ---
 
@@ -45,11 +44,12 @@ Note:
 
 ---
 
-### Pic: Arrival
+![Arrival](arriving-wtf-2019-dkarlinsky.jpg)
+### Arrival
 
-Arrived
-
-Others who had been there previously were putting up pieces of paper and collecting “you can record me” consent forms. 
+Note:
+ - Joined a house rented by others (organised previously via email - now it's slack which people are invited to when they pay their fee)
+ - Others who had been there previously were putting up pieces of paper and collecting “you can record me” consent forms. 
 
 ---
 

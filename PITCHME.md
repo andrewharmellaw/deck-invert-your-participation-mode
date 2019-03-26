@@ -62,7 +62,7 @@ Note:
 
 ---
 
-![Full Boards](Full-Boards-AndrewHarmel-Law.jpg)
+![Full Boards](assets/img/Full-Boards-AndrewHarmel-Law.jpg)
 
 Note:
  - Then we had ten mins to organise - the “pieces of paper” were empty agendas, with spaces for each session, in each track. 

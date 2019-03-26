@@ -26,22 +26,22 @@ Note:
 ---
 
 ![The Java Posse](assets/img/the-java-posse.jpg)
+## The Java Posse
 
-Spin off from a tech podcast. 
-
-Organised by the podcasters, plus a famous tech luminary. 
-
-They’d recorded sessions and put them out on the podcast as episodes 
+Note:
+ - Spin off from a tech podcast. 
+ - Organised by the podcasters, plus a famous tech luminary. 
+ - They’d recorded sessions and put them out on the podcast as episodes 
 
 ---
 
-### Pic: View of CB
+![Crested Butte in the snow](assets/img/crested-butte.jpg)
+## Crested Butte
 
-Ex-mining, now skiing town, 8 hrs drive into the Rockies from Denver. 
-
-Church hall, one main space, and 4 smaller spaces (one was the coffee shop round the corner)
-
-Theme: (can’t remember now)
+Note:
+ - Ex-mining, now skiing town, 8 hrs drive into the Rockies from Denver. 
+ - Church hall, one main space, and 4 smaller spaces (one was the coffee shop round the corner)
+ - Theme: (can’t remember now)
 
 ---
 

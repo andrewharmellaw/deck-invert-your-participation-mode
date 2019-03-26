@@ -25,7 +25,7 @@ Note:
 
 ---
 
-### Pic: The Posse
+![The Java Posse](assets/img/the-java-posse.jpg)
 
 Spin off from a tech podcast. 
 

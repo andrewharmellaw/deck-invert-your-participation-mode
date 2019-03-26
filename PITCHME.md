@@ -35,7 +35,7 @@ Note:
 
 ---
 
-![Crested Butte in the snow](assets/img/crested-butte.jpg)
+![Crested Butte in the snow](assets/img/Crested-Butte.jpg)
 ## Crested Butte
 
 Note:

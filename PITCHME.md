@@ -53,7 +53,8 @@ Note:
 
 ---
 
-### Pic: Intro session
+![Introduction session](introduction-wtf2019-aharmel-law.jpg)
+### Introduction Session
 
 Kicked off by Bruce. 
 

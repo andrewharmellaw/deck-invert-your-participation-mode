@@ -3,7 +3,7 @@
 
 --- 
 
-## Who Am I?
+# Who Am I?
 
 ---
 
@@ -20,7 +20,7 @@ Note:
 
 ---
 
-## Attending Open Spaces
+# Attending Open Spaces
 
 ---
 
@@ -92,7 +92,7 @@ I kept going back.  I had some of the most rewarding and self-developmental expe
 
 ---
 
-# Part 2 - Things I learned when styaging Open Spaces 
+# Staging Open Spaces 
 
 ---
 

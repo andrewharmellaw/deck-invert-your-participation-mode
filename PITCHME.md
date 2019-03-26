@@ -44,7 +44,7 @@ Note:
 
 ---
 
-![Arrival](arriving-wtf-2019-dkarlinsky.jpg)
+![Arrival](assets/img/arriving-wtf-2019-dkarlinsky.jpg)
 ### Arrival
 
 Note:
@@ -53,33 +53,26 @@ Note:
 
 ---
 
-![Introduction session](introduction-wtf2019-aharmel-law.jpg)
-### Introduction Session
+![Introduction session](assets/img/introduction-wtf2019-aharmel-law.jpg)
+### The Welcome / Introduction Session
 
-Kicked off by Bruce. 
-
-We were all in a circle. After warning about altitude sickness he explained the expectations, the mechanics, how to lead a session and how to attend one (invert your participation mode) and the one rule. 
-
----
-
-### Pic: Empty boards
-
-Then we had ten mins to organise - the “pieces of paper” were empty agendas, with spaces for each session, in each track. 
-
-There were three sessions a day, in the morning. The afternoons were free. The evenings were lightning talks. 
-
-
-People proposed sessions (title, and proposer) and put it in a slot. To begin with, there weren’t many. But the first 5 slots filled up. Then the time to kick of the sessions came around and we went to our sessions. 
+Note:
+ - Kicked off by Bruce. 
+ - We were all in a circle. After warning about altitude sickness he explained the expectations, the mechanics, how to lead a session and how to attend one (invert your participation mode) and the one rule. 
 
 ---
 
-### Pic: Full boards
+![Full Boards](Full-Boards-AndrewHarmel-Law.jpg)
 
-After the first session a LOT MORE sessions got proposed. People also started curating the agenda (they had to) based on clashes, similarities, and more. 
+Note:
+ - Then we had ten mins to organise - the “pieces of paper” were empty agendas, with spaces for each session, in each track. 
+ - There were three sessions a day, in the morning. The afternoons were free. The evenings were lightning talks. 
+ - People proposed sessions (title, and proposer) and put it in a slot. To begin with, there weren’t many. But the first 5 slots filled up. Then the time to kick of the sessions came around and we went to our sessions. 
+ - After the first session a LOT MORE sessions got proposed. People also started curating the agenda (they had to) based on clashes, similarities, and more. 
 
 ---
 
-### Pic: Hackathons / Skiing
+### Pics: Hackathons / Skiing / Food
 
 The afternoons also filled up - hackathons, demos, cross-country skiing, and more. This all self-organised. Lunches and dinners self-organised too. 
 

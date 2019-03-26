@@ -9,7 +9,7 @@
 ---
 
 ## “Event Amateur”
-### Pic: 
+![WTF 2019](assets/img/event-amateur-wtf2019-dkarlinsky) 
 
 Note: 
  - Developer / Principal at ThoughtWorks (a global consultancy)

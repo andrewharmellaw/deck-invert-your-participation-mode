@@ -3,11 +3,13 @@
 
 --- 
 
-# Introduction - hi (:waves:)
+# The Introduction
+## (About me)
 
 ---
 
 ## “Event Amateur”
+### Pic: 
 
 Developer / Principal at ThoughtWorks (a global consultancy)
 
@@ -27,6 +29,8 @@ I'd be SUPER-HAPPY to take questions, and have a chat about all this at the end 
 
 ---
 
+### Pic: The Posse
+
 Spin off from a tech podcast. 
 
 Organised by the podcasters, plus a famous tech luminary. 
@@ -34,6 +38,8 @@ Organised by the podcasters, plus a famous tech luminary.
 They’d recorded sessions and put them out on the podcast as episodes 
 
 ---
+
+### Pic: View of CB
 
 Ex-mining, now skiing town, 8 hrs drive into the Rockies from Denver. 
 
@@ -43,17 +49,23 @@ Theme: (can’t remember now)
 
 ---
 
+### Pic: Arrival
+
 Arrived
 
 Others who had been there previously were putting up pieces of paper and collecting “you can record me” consent forms. 
 
 ---
 
+### Pic: Intro session
+
 Kicked off by Bruce. 
 
 We were all in a circle. After warning about altitude sickness he explained the expectations, the mechanics, how to lead a session and how to attend one (invert your participation mode) and the one rule. 
 
 ---
+
+### Pic: Empty boards
 
 Then we had ten mins to organise - the “pieces of paper” were empty agendas, with spaces for each session, in each track. 
 
@@ -64,17 +76,25 @@ People proposed sessions (title, and proposer) and put it in a slot. To begin wi
 
 ---
 
+### Pic: Full boards
+
 After the first session a LOT MORE sessions got proposed. People also started curating the agenda (they had to) based on clashes, similarities, and more. 
 
 ---
+
+### Pic: Hackathons / Skiing
 
 The afternoons also filled up - hackathons, demos, cross-country skiing, and more. This all self-organised. Lunches and dinners self-organised too. 
 
 ---
 
+### Pic: Slack chat
+
 We'd also built a community - in the intervening 53 months of the year we kept up with each other on slack and email.
 
 ---
+
+### Pic: My quote on the WTF website
 
 I kept going back.  I had some of the most rewarding and self-developmental experiences of my entire career.
 
@@ -82,9 +102,11 @@ I kept going back.  I had some of the most rewarding and self-developmental expe
 
 ---
 
-# Part 2 - things I learned when putting these on myself. 
+# Part 2 - Things I learned when styaging Open Spaces 
 
 ---
+
+### Pic: Magical interaction
 
 So much appeared to happen “as if by magic” those first few times. 
 
@@ -92,13 +114,19 @@ When I did it myself, when I brought the roundup to the UK for the first time, a
 
 ---
 
+### Pic: Bruce participating
+
 Bruce actively sought to do as little as possible, but also he strove to create a community. One that was welcoming and inclusive.  This takes effort.  Effort to stay out of the way, but also effort to watch what is going on, and, behind the scenes, make sure nothing is being abused / undermined.
 
 ---
 
+### Pic: Code of conduct
+
 A Code of Conduct
 
 ---
+
+### Pic: 1-1 conversation
 
 Speaking to people in the background - very like the Quaker Model of disruptors at meeting
 
@@ -106,25 +134,35 @@ It won't be for everyone. You need to manahge that too.
 
 ---
 
+### Pic: The church hall / Rumors / People's houses
+
 The right space
 
 ---
 
+### Pic: Schwag
+
 He didn’t have to worry much about marketing / advertising as he was famous, had a massive network, and didn’t mind how big or small something was. 
 
-I did, and it can be hard to explain what something like this is. What I did do (semi-successfully) was emphasise the fact that to attend would mean you’d get to engage with luminary x and famous person y. You need to have them in attendance to do this, but that’s not impossible. And they’ll invariably love it when they attend too. 
+I did, and it can be hard to explain what something like this is. What I did do (semi-successfully) was emphasise the fact that to attend would mean you’d get to engage with luminary X and famous person Y. You need to have them in attendance to do this, but that’s not impossible. And they’ll invariably love it when they attend too. 
 
 ---
+
+### Pic: Aeroplane / travelling
 
 This raises another problem for delegates. Selling it to their boss. A conference that makes itself is a hard sell. 
 
-This is the main reason the OPen Spaces I attend have themes - so they sound valuble to the people paying
+This is the main reason the Open Spaces I attend have themes - so they sound valuble to the people paying
 
 ---
+
+### Pic: Yurt dinner
 
 There are no “sponsors” but bringing schwag and sponsoring a dinner is fine. 
 
 ---
+
+### Pic: Everyone
 
 Numbers: 70/80 is the max
 
@@ -134,9 +172,11 @@ Numbers: 70/80 is the max
 
 ---
 
+## "Invert your organisation mode"
+
 I'm aware, having contributed to setting up and running "classic" eyes-front conferences, that almost everything about Open Spaces will sound different.
 
-It's almost "invert your organisation mode"
+It's very much "invert your organisation mode"
 
 Hopefully I've given you enough info on how to run one that your interest is piqued.
 

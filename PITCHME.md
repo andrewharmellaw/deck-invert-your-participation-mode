@@ -20,7 +20,7 @@ Note:
 
 ---
 
-## Part 1 - My First Open Spaces
+## Attending Open Spaces
 
 ---
 

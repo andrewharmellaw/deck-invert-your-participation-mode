@@ -11,19 +11,13 @@
 ## “Event Amateur”
 ### Pic: 
 
-Notes: 
-
-Developer / Principal at ThoughtWorks (a global consultancy)
-
-Attended, participated in, co-organised, sponsored and put on numerous tech events over the years, nationally and internationally
-
-The best fun has been speaking, and open spaces. 
-
-Hopefully some / all of what I’m about to share will be useful to you. 
-
-I've only a short period of time, so I want to tell you about attending my first open spaces, and then about putting on my first open spaces. 
-
-I'd be SUPER-HAPPY to take questions, and have a chat about all this at the end or afterwards over social media or whatever. (I could talk about this FOR EVER.)
+Note: 
+ - Developer / Principal at ThoughtWorks (a global consultancy)
+ - Attended, participated in, co-organised, sponsored and put on numerous tech events over the years, nationally and internationally
+ - The best fun has been speaking, and open spaces. 
+ - Hopefully some / all of what I’m about to share will be useful to you. 
+ - I've only a short period of time, so I want to tell you about attending my first open spaces, and then about putting on my first open spaces. 
+ - I'd be SUPER-HAPPY to take questions, and have a chat about all this at the end or afterwards over social media or whatever. (I could talk about this FOR EVER.)
 
 ---
 

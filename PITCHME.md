@@ -3,13 +3,15 @@
 
 --- 
 
+# Who Am I?
 # The Introduction
-## (About me)
 
 ---
 
 ## “Event Amateur”
 ### Pic: 
+
+Notes: 
 
 Developer / Principal at ThoughtWorks (a global consultancy)
 

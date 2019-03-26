@@ -3,7 +3,7 @@
 
 --- 
 
-# Part 1 - hi (:waves:)
+# Introduction - hi (:waves:)
 
 ---
 
@@ -23,7 +23,7 @@ I'd be SUPER-HAPPY to take questions, and have a chat about all this at the end 
 
 ---
 
-# Part 2 - My first open spaces
+# Part 1 - My first open spaces
 
 ---
 
@@ -82,7 +82,7 @@ I kept going back.  I had some of the most rewarding and self-developmental expe
 
 ---
 
-# Part 3 - things I learned when putting these on myself. 
+# Part 2 - things I learned when putting these on myself. 
 
 ---
 
@@ -96,7 +96,7 @@ Bruce actively sought to do as little as possible, but also he strove to create 
 
 ---
 
-Code of Conduct
+A Code of Conduct
 
 ---
 

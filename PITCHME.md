@@ -130,7 +130,7 @@ The right space
 
 ---
 
-### Pic: Schwag
+### Pic: Schwag (my laptop)
 
 He didn’t have to worry much about marketing / advertising as he was famous, had a massive network, and didn’t mind how big or small something was. 
 
@@ -158,7 +158,7 @@ Numbers: 70/80 is the max
 
 ---
 
-# Conclusion
+# Conclusions
 
 ---
 

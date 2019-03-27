@@ -96,22 +96,25 @@ I kept going back.  I had some of the most rewarding and self-developmental expe
 
 ---
 
-### Pic: Magical interaction
+![Team WTF does Karaoke](karaoke-wtf2019-pavery.jpg)
 
+Note:
 So much appeared to happen “as if by magic” those first few times. 
 
 When I did it myself, when I brought the roundup to the UK for the first time, and when I put on the Devoxx spin-off Unvoxxed, I realised what was happening behind the scenes. 
 
 ---
 
-### Pic: Bruce participating
+![Bruce and Huskies](assets/img/bruce-and-huskies-wtf2019-gweakliem.jpg)
 
+Note:
 Bruce actively sought to do as little as possible, but also he strove to create a community. One that was welcoming and inclusive.  This takes effort.  Effort to stay out of the way, but also effort to watch what is going on, and, behind the scenes, make sure nothing is being abused / undermined.
 
 ---
 
-### Pic: Code of conduct
+![Code of Conduct](assets/img/code-of-conduct.png)
 
+Note:
 A Code of Conduct
 
 ---

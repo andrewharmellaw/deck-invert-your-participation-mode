@@ -96,7 +96,7 @@ I kept going back.  I had some of the most rewarding and self-developmental expe
 
 ---
 
-![Team WTF does Karaoke](karaoke-wtf2019-pavery.jpg)
+![Team WTF does Karaoke](assets/img/karaoke-wtf2019-pavery.jpg)
 
 Note:
 So much appeared to happen “as if by magic” those first few times. 

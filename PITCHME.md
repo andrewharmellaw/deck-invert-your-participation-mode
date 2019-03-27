@@ -72,13 +72,13 @@ Note:
 
 ---
 
-### Pics: Hackathons / Skiing / Food
+![Cross-Country Skiing](assets/img/skiing-wtf2019-dkarlinsky.jpg)
 
 The afternoons also filled up - hackathons, demos, cross-country skiing, and more. This all self-organised. Lunches and dinners self-organised too. 
 
 ---
 
-### Pic: Slack chat
+![Slack - Hack Channel](assets/img/Slack-Hackday.png)
 
 We'd also built a community - in the intervening 53 months of the year we kept up with each other on slack and email.
 

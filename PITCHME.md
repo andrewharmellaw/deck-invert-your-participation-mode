@@ -151,7 +151,7 @@ This is the main reason the Open Spaces I attend have themes - so they sound val
 
 ---
 
-### Pic: Yurt dinner
+![Yurt Dinner](assets/img/yurt-dinner-wtf2019-dkarlinsky.jpg)
 
 There are no “sponsors” but bringing schwag and sponsoring a dinner is fine. 
 

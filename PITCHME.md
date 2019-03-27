@@ -119,7 +119,7 @@ A Code of Conduct
 
 ---
 
-### Pic: 1-1 conversation
+![Pizz Kills!](assets/img/pizza-kills-wtf2019-aharmel-law.jpg)
 
 Speaking to people in the background - very like the Quaker Model of disruptors at meeting
 

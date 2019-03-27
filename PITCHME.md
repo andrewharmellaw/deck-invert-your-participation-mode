@@ -128,7 +128,7 @@ It won't be for everyone. You need to manage that too.
 
 ---
 
-![Lightning Talks at the Church Hall](assets/img/church-hall-lightning-talks-wtf2019-aharmel-law.JPG)
+![Lightning Talks at the Church Hall](assets/img/church-hall-lightning-talks-wtf2019-aharmel-law.jpg)
 
 Note:
 The right space

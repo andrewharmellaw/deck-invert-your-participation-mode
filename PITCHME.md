@@ -119,16 +119,18 @@ A Code of Conduct
 
 ---
 
-![Pizz Kills!](assets/img/pizza-kills-wtf2019-aharmel-law.jpg)
+![Pizza Kills!](assets/img/pizza-kills-wtf2019-aharmel-law.jpg)
 
+Note:
 Speaking to people in the background - very like the Quaker Model of disruptors at meeting
 
-It won't be for everyone. You need to manahge that too.
+It won't be for everyone. You need to manage that too.
 
 ---
 
-### Pic: The church hall / Rumors / People's houses
+![Lightning Talks at the Church Hall](assets/img/church-hall-lightning-talks-wtf2019-aharmel-law.JPG)
 
+Note:
 The right space
 
 ---
@@ -141,7 +143,7 @@ I did, and it can be hard to explain what something like this is. What I did do 
 
 ---
 
-### Pic: Aeroplane / travelling
+![Arriving in the mountains](assets/img/plane-at-montrose.jpg)
 
 This raises another problem for delegates. Selling it to their boss. A conference that makes itself is a hard sell. 
 
@@ -152,12 +154,6 @@ This is the main reason the Open Spaces I attend have themes - so they sound val
 ### Pic: Yurt dinner
 
 There are no “sponsors” but bringing schwag and sponsoring a dinner is fine. 
-
----
-
-### Pic: Everyone
-
-Numbers: 70/80 is the max
 
 ---
 

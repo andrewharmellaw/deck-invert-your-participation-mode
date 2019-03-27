@@ -84,7 +84,7 @@ We'd also built a community - in the intervening 53 months of the year we kept u
 
 ---
 
-### Pic: My quote on the WTF website
+![WTF Testimonials](assets/img/ahl-wtf-site-quote.png)
 
 I kept going back.  I had some of the most rewarding and self-developmental experiences of my entire career.
 

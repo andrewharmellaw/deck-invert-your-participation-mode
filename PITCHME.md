@@ -135,7 +135,7 @@ The right space
 
 ---
 
-### Pic: Schwag (my laptop)
+![Laptop Stickers](assets/img/laptop-stickers.jpg)
 
 He didn’t have to worry much about marketing / advertising as he was famous, had a massive network, and didn’t mind how big or small something was. 
 

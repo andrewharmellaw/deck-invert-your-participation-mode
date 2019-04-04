@@ -20,9 +20,7 @@ I'm an “Event Amateur”
 
 # Attending Open Spaces...
 
----
-
-![The Java Posse](assets/img/the-java-posse.jpg)
+---?image=assets/img/the-java-posse.jpg&size=auto 100%&position=right
 
 Note:
 The Java Posse

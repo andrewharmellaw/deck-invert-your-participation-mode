@@ -5,9 +5,7 @@
 
 # Who Am I?
 
----
-
-![WTF 2019](assets/img/event-amateur-wtf2019-dkarlinsky.jpg) 
+---?image=assets/img/event-amateur-wtf2019-dkarlinsky.jpg
 
 Note: 
 I'm an “Event Amateur”

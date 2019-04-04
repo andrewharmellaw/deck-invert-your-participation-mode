@@ -5,7 +5,7 @@
 
 # Who Am I?
 
----?image=assets/img/event-amateur-wtf2019-dkarlinsky.jpg?size=auto 50%
+---?image=assets/img/event-amateur-wtf2019-dkarlinsky.jpg&size=auto 50%
 
 Note: 
 I'm an “Event Amateur”

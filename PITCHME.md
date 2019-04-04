@@ -132,7 +132,7 @@ There are no “sponsors” but bringing schwag and sponsoring a dinner is fine.
 
 ---
 
-## Conclusions
+## Conclusions...
 
 ---
 

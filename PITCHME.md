@@ -50,9 +50,7 @@ The Welcome / Introduction Session
  - Kicked off by Bruce. 
  - We were all in a circle. After warning about altitude sickness he explained the expectations, the mechanics, how to lead a session and how to attend one (invert your participation mode) and the one rule. 
 
----
-
-![Full Boards](assets/img/Full-Boards-AndrewHarmel-Law.jpg)
+---?image=assets/img/Full-Boards-AndrewHarmel-Law.jpg&size=auto 100%&position=right
 
 Note:
  - Then we had ten mins to organise - the “pieces of paper” were empty agendas, with spaces for each session, in each track. 
@@ -60,9 +58,7 @@ Note:
  - People proposed sessions (title, and proposer) and put it in a slot. To begin with, there weren’t many. But the first 5 slots filled up. Then the time to kick of the sessions came around and we went to our sessions. 
  - After the first session a LOT MORE sessions got proposed. People also started curating the agenda (they had to) based on clashes, similarities, and more. 
 
----
-
-![Cross-Country Skiing](assets/img/skiing-wtf2019-dkarlinsky.jpg)
+---?image=assets/img/skiing-wtf2019-dkarlinsky.jpg&size=auto 100%&position=right
 
 Note:
 The afternoons also filled up - hackathons, demos, cross-country skiing, and more. This all self-organised. Lunches and dinners self-organised too. 
@@ -85,18 +81,14 @@ I kept going back.  I had some of the most rewarding and self-developmental expe
 
 ## Staging Open Spaces... 
 
----
-
-![Team WTF does Karaoke](assets/img/karaoke-wtf2019-pavery.jpg)
+---?image=assets/img/karaoke-wtf2019-pavery.jpg&size=auto 100%&position=right
 
 Note:
 So much appeared to happen “as if by magic” those first few times. 
 
 When I did it myself, when I brought the roundup to the UK for the first time, and when I put on the Devoxx spin-off Unvoxxed, I realised what was happening behind the scenes. 
 
----
-
-![Bruce and Huskies](assets/img/bruce-and-huskies-wtf2019-gweakliem.jpg)
+---?image=assets/img/bruce-and-huskies-wtf2019-gweakliem.jpg&size=auto 100%&position=right
 
 Note:
 Bruce actively sought to do as little as possible, but also he strove to create a community. One that was welcoming and inclusive.  This takes effort.  Effort to stay out of the way, but also effort to watch what is going on, and, behind the scenes, make sure nothing is being abused / undermined.
@@ -108,42 +100,32 @@ Bruce actively sought to do as little as possible, but also he strove to create 
 Note:
 A Code of Conduct
 
----
-
-![Pizza Kills!](assets/img/pizza-kills-wtf2019-aharmel-law.jpg)
+---?image=assets/img/pizza-kills-wtf2019-aharmel-law.jpg&size=auto 100%&position=right
 
 Note:
 Speaking to people in the background - very like the Quaker Model of disruptors at meeting
 
 It won't be for everyone. You need to manage that too.
 
----
-
-![Lightning Talks at the Church Hall](assets/img/church-hall-lightning-talks-wtf2019-aharmel-law.jpg)
+---?image=assets/img/church-hall-lightning-talks-wtf2019-aharmel-law.jpg&size=auto 100%&position=right
 
 Note:
 The right space
 
----
-
-![Laptop Stickers](assets/img/laptop-stickers.jpg)
+---?image=assets/img/laptop-stickers.jpg&size=auto 100%&position=right
 
 Note:
 He didn’t have to worry much about marketing / advertising as he was famous, had a massive network, and didn’t mind how big or small something was. 
 
 I did, and it can be hard to explain what something like this is. What I did do (semi-successfully) was emphasise the fact that to attend would mean you’d get to engage with luminary X and famous person Y. You need to have them in attendance to do this, but that’s not impossible. And they’ll invariably love it when they attend too. 
 
----
-
-![Arriving in the mountains](assets/img/plane-at-montrose.jpg)
+---?image=assets/img/plane-at-montrose.jpg&size=auto 100%&position=right
 
 Note:
 This raises another problem for delegates. Selling it to their boss. A conference that makes itself is a hard sell. 
 This is the main reason the Open Spaces I attend have themes - so they sound valuble to the people paying
 
----
-
-![Yurt Dinner](assets/img/yurt-dinner-wtf2019-dkarlinsky.jpg)
+---?image=assets/img/yurt-dinner-wtf2019-dkarlinsky.jpg&size=auto 100%&position=right
 
 Note:
 There are no “sponsors” but bringing schwag and sponsoring a dinner is fine. 

@@ -36,18 +36,14 @@ Crested Butte
  - Church hall, one main space, and 4 smaller spaces (one was the coffee shop round the corner)
  - Theme: (can’t remember now)
 
----
-
-![Arrival](assets/img/arriving-wtf-2019-dkarlinsky.jpg)
+---?image=assets/img/arriving-wtf-2019-dkarlinsky.jpg&size=auto 100%&position=right
 
 Note:
 Arrival
  - Joined a house rented by others (organised previously via email - now it's slack which people are invited to when they pay their fee)
  - Others who had been there previously were putting up pieces of paper and collecting “you can record me” consent forms. 
 
----
-
-![Introduction session](assets/img/introduction-wtf2019-aharmel-law.jpg)
+---?image=assets/img/introduction-wtf2019-aharmel-law.jpg&size=auto 100%&position=right
 
 Note:
 The Welcome / Introduction Session

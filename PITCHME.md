@@ -28,9 +28,7 @@ The Java Posse
  - Organised by the podcasters, plus a famous tech luminary. 
  - They’d recorded sessions and put them out on the podcast as episodes 
 
----
-
-![Crested Butte in the snow](assets/img/Crested-Butte.jpg)
+---?image=assets/img/Crested-Butte.jpg&size=auto 100%&position=right
 
 Note:
 Crested Butte

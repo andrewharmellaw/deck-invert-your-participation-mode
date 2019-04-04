@@ -8,9 +8,9 @@
 ---
 
 ![WTF 2019](assets/img/event-amateur-wtf2019-dkarlinsky.jpg) 
-## “Event Amateur”
 
 Note: 
+I'm an “Event Amateur”
  - Developer / Principal at ThoughtWorks (a global consultancy)
  - Attended, participated in, co-organised, sponsored and put on numerous tech events over the years, nationally and internationally
  - The best fun has been speaking, and open spaces. 
@@ -20,14 +20,14 @@ Note:
 
 ---
 
-# Attending Open Spaces
+# Attending Open Spaces...
 
 ---
 
 ![The Java Posse](assets/img/the-java-posse.jpg)
-## The Java Posse
 
 Note:
+The Java Posse
  - Spin off from a tech podcast. 
  - Organised by the podcasters, plus a famous tech luminary. 
  - They’d recorded sessions and put them out on the podcast as episodes 
@@ -35,9 +35,9 @@ Note:
 ---
 
 ![Crested Butte in the snow](assets/img/Crested-Butte.jpg)
-## Crested Butte
 
 Note:
+Crested Butte
  - Ex-mining, now skiing town, 8 hrs drive into the Rockies from Denver. 
  - Church hall, one main space, and 4 smaller spaces (one was the coffee shop round the corner)
  - Theme: (can’t remember now)
@@ -45,18 +45,18 @@ Note:
 ---
 
 ![Arrival](assets/img/arriving-wtf-2019-dkarlinsky.jpg)
-### Arrival
 
 Note:
+Arrival
  - Joined a house rented by others (organised previously via email - now it's slack which people are invited to when they pay their fee)
  - Others who had been there previously were putting up pieces of paper and collecting “you can record me” consent forms. 
 
 ---
 
 ![Introduction session](assets/img/introduction-wtf2019-aharmel-law.jpg)
-### The Welcome / Introduction Session
 
 Note:
+The Welcome / Introduction Session
  - Kicked off by Bruce. 
  - We were all in a circle. After warning about altitude sickness he explained the expectations, the mechanics, how to lead a session and how to attend one (invert your participation mode) and the one rule. 
 
@@ -74,25 +74,26 @@ Note:
 
 ![Cross-Country Skiing](assets/img/skiing-wtf2019-dkarlinsky.jpg)
 
+Note:
 The afternoons also filled up - hackathons, demos, cross-country skiing, and more. This all self-organised. Lunches and dinners self-organised too. 
 
 ---
 
 ![Slack - Hack Channel](assets/img/Slack-Hackday.png)
 
+Note:
 We'd also built a community - in the intervening 53 months of the year we kept up with each other on slack and email.
 
 ---
 
 ![WTF Testimonials](assets/img/ahl-wtf-site-quote.png)
 
+Note:
 I kept going back.  I had some of the most rewarding and self-developmental experiences of my entire career.
-
-(Quote from the WTF website)
 
 ---
 
-# Staging Open Spaces 
+# Staging Open Spaces... 
 
 ---
 
@@ -137,6 +138,7 @@ The right space
 
 ![Laptop Stickers](assets/img/laptop-stickers.jpg)
 
+Note:
 He didn’t have to worry much about marketing / advertising as he was famous, had a massive network, and didn’t mind how big or small something was. 
 
 I did, and it can be hard to explain what something like this is. What I did do (semi-successfully) was emphasise the fact that to attend would mean you’d get to engage with luminary X and famous person Y. You need to have them in attendance to do this, but that’s not impossible. And they’ll invariably love it when they attend too. 
@@ -145,14 +147,15 @@ I did, and it can be hard to explain what something like this is. What I did do 
 
 ![Arriving in the mountains](assets/img/plane-at-montrose.jpg)
 
+Note:
 This raises another problem for delegates. Selling it to their boss. A conference that makes itself is a hard sell. 
-
 This is the main reason the Open Spaces I attend have themes - so they sound valuble to the people paying
 
 ---
 
 ![Yurt Dinner](assets/img/yurt-dinner-wtf2019-dkarlinsky.jpg)
 
+Note:
 There are no “sponsors” but bringing schwag and sponsoring a dinner is fine. 
 
 ---
@@ -163,6 +166,7 @@ There are no “sponsors” but bringing schwag and sponsoring a dinner is fine.
 
 ## "Invert your organisation mode"
 
+Note:
 I'm aware, having contributed to setting up and running "classic" eyes-front conferences, that almost everything about Open Spaces will sound different.
 
 It's very much "invert your organisation mode"
@@ -173,6 +177,7 @@ Hopefully I've given you enough info on how to run one that your interest is piq
 
 But if there's so little for you as an event professional to do, why should you care about them?
 
+Note:
 I've a few reasons:
 
 1. there is a need for you, but it's not in the area of the last-minute, running-around busy-work - it's the fun, human, experience-facilitation stuff (It's MASSIVELY rewarding)
@@ -182,9 +187,9 @@ I've a few reasons:
 
 ---
 
-My Contact details:
-...
+### What questions do you have?
 
+Contact me!: @al94781
 
 ---
 

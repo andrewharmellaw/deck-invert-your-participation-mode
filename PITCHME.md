@@ -1,9 +1,9 @@
-# Invert Your Participation Mode
+## Invert Your Participation Mode
 #### or How Open Spaces Conferences Change Everything (and How to Run One)
 
 --- 
 
-# Who Am I?
+## Who Am I?
 
 ---?image=assets/img/event-amateur-wtf2019-dkarlinsky.jpg&size=auto 100%&position=right
 
@@ -18,7 +18,7 @@ I'm an “Event Amateur”
 
 ---
 
-# Attending Open Spaces...
+## Attending Open Spaces...
 
 ---?image=assets/img/the-java-posse.jpg&size=auto 100%&position=right
 
@@ -83,7 +83,7 @@ I kept going back.  I had some of the most rewarding and self-developmental expe
 
 ---
 
-# Staging Open Spaces... 
+## Staging Open Spaces... 
 
 ---
 
@@ -150,7 +150,7 @@ There are no “sponsors” but bringing schwag and sponsoring a dinner is fine.
 
 ---
 
-# Conclusions
+## Conclusions
 
 ---
 
@@ -177,7 +177,7 @@ I've a few reasons:
 
 ---
 
-### What questions do you have?
+## What questions do you have?
 
 Contact me!: @al94781
 

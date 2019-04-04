@@ -52,7 +52,7 @@ layout : top-left
 # reason THIS VALUE SHOULD NOT BE MODIFIED. See:
 # https://gitpitch.com/docs/layout-features/snap-layout-slide-transitions
 #
-transition : none
+transition : slide
 
 #
 # Twitter Card Settings

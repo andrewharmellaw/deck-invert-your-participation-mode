@@ -18,7 +18,7 @@ I'm an “Event Amateur”
 
 ---
 
-## Attending Open Spaces...
+## Attending an Open Space Conference...
 
 ---?image=assets/img/the-java-posse.jpg&size=auto 100%&position=right
 
@@ -79,7 +79,7 @@ I kept going back.  I had some of the most rewarding and self-developmental expe
 
 ---
 
-## Staging Open Spaces... 
+## Curating an Open Space Conference... 
 
 ---?image=assets/img/karaoke-wtf2019-pavery.jpg&size=auto 100%&position=right
 

@@ -153,9 +153,9 @@ I've a few reasons:
 
 ---
 
-1. there _is_ a need for you, but it's not in the area of the last-minute, running-around busy-work - it's the fun, human, experience-facilitation stuff (It's MASSIVELY rewarding)
+1. there _is_ a need for you, but not in the area of the last-minute, running-around busy-work - it's the fun, human, experience-facilitation stuff
 1. consequently they take up a lot less of your time
-1. once you get confident you can experiment - every year we’d try some changes. Some would work (slack) some didn’t (an online board)
+1. once you get confident you can experiment - every year we’d try some changes
 1. it'll restore your faith in humanity, and hence your energy banks - it's like a detox
 
 Note:

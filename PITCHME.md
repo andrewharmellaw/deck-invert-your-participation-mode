@@ -1,4 +1,4 @@
-## **Invert Your Participation Mode**
+## **Invert Your Organisation Mode**
 #### or How Open Spaces Conferences Change Everything (and How to Run One)
 
 --- 

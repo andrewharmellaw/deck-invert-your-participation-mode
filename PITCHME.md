@@ -149,6 +149,13 @@ Hopefully I've given you enough info on how to run one that your interest is piq
 
 But if there's so little for you as an event professional to do, why should you care about them?
 
+I've a few reasons:
+
+1. there _is_ a need for you, but it's not in the area of the last-minute, running-around busy-work - it's the fun, human, experience-facilitation stuff (It's MASSIVELY rewarding)
+1. Consequently they take up a lot less of your time
+1. Once you get confident you can experiment - every year we’d try some changes. Some would work (slack) some didn’t (an online board)
+1. it'll restore your faith in humanity, and hence your energy banks - it's like a detox
+
 Note:
 I've a few reasons:
 

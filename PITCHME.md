@@ -93,19 +93,19 @@ When I did it myself, when I brought the roundup to the UK for the first time, a
 Note:
 Bruce actively sought to do as little as possible, but also he strove to create a community. One that was welcoming and inclusive.  This takes effort.  Effort to stay out of the way, but also effort to watch what is going on, and, behind the scenes, make sure nothing is being abused / undermined.
 
----
-
-![Code of Conduct](assets/img/code-of-conduct.png)
-
-Note:
-A Code of Conduct
-
 ---?image=assets/img/pizza-kills-wtf2019-aharmel-law.jpg&size=auto 100%&position=right
 
 Note:
 Speaking to people in the background - very like the Quaker Model of disruptors at meeting
 
 It won't be for everyone. You need to manage that too.
+
+---
+
+![Code of Conduct](assets/img/code-of-conduct.png)
+
+Note:
+A Code of Conduct
 
 ---?image=assets/img/church-hall-lightning-talks-wtf2019-aharmel-law.jpg&size=auto 100%&position=right
 
@@ -119,16 +119,16 @@ He didn’t have to worry much about marketing / advertising as he was famous, h
 
 I did, and it can be hard to explain what something like this is. What I did do (semi-successfully) was emphasise the fact that to attend would mean you’d get to engage with luminary X and famous person Y. You need to have them in attendance to do this, but that’s not impossible. And they’ll invariably love it when they attend too. 
 
+---?image=assets/img/yurt-dinner-wtf2019-dkarlinsky.jpg&size=auto 100%&position=right
+
+Note:
+There are no “sponsors” but bringing schwag and sponsoring a dinner is fine. 
+
 ---?image=assets/img/plane-at-montrose.jpg&size=auto 100%&position=right
 
 Note:
 This raises another problem for delegates. Selling it to their boss. A conference that makes itself is a hard sell. 
 This is the main reason the Open Spaces I attend have themes - so they sound valuble to the people paying
-
----?image=assets/img/yurt-dinner-wtf2019-dkarlinsky.jpg&size=auto 100%&position=right
-
-Note:
-There are no “sponsors” but bringing schwag and sponsoring a dinner is fine. 
 
 ---
 
@@ -152,7 +152,7 @@ But if there's so little for you as an event professional to do, why should you 
 Note:
 I've a few reasons:
 
-1. there is a need for you, but it's not in the area of the last-minute, running-around busy-work - it's the fun, human, experience-facilitation stuff (It's MASSIVELY rewarding)
+1. there _is_ a need for you, but it's not in the area of the last-minute, running-around busy-work - it's the fun, human, experience-facilitation stuff (It's MASSIVELY rewarding)
 1. Consequently they take up a lot less of your time
 1. Once you get confident you can experiment - every year we’d try some changes. Some would work (slack) some didn’t (an online board)
 1. it'll restore your faith in humanity, and hence your energy banks - it's like a detox

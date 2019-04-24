@@ -170,6 +170,4 @@ I've a few reasons:
 
 ## What questions do you have?
 
-Contact me!: @al94781
-
----
+Contact me: @al94781

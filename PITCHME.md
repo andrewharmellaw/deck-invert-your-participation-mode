@@ -171,3 +171,32 @@ I've a few reasons:
 ## What questions do you have?
 
 Contact me: @al94781
+
+---
+
+# Appendices
+
+---
+
+## "How to Open Spaces" Notes
+
+* what it is/isn't
+* what they can/can't do
+* Self-organisation
+* Check lists (before/during/after/meta)
+  * Venue
+  * Topic
+  * Invites
+  * Stationery
+  * Schedule & timings
+  * Wall-papers and how to use them
+  * Name badges
+  * Opening session
+  * Closing session
+* How-tos  
+  * How to propose a session
+  * How to run a session
+* Virtual open spaces
+* Examples (Links and stuff)
+* Freestyles
+* Further reading

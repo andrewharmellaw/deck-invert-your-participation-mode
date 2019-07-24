@@ -180,23 +180,23 @@ Contact me: @al94781
 
 ## "How to Open Spaces" Notes
 
-* what it is/isn't
-* what they can/can't do
-* Self-organisation
-* Check lists (before/during/after/meta)
-  * Venue
-  * Topic
-  * Invites
-  * Stationery
-  * Schedule & timings
-  * Wall-papers and how to use them
-  * Name badges
-  * Opening session
-  * Closing session
+* What OpenSpaces is/isn't and what they can/can't do
+  * UnConferences?
+* Philosophy: Self-organisation
+* Check lists
+  * Dates
+  * Venue (building / virtual and rooms)
+  * Theme
+  * Invites (and reminders)
+  * Schedule (timings and mapping to rooms)
+  * Boards (and associated stationery, e.g. name badges)
 * How-tos  
+  * How to run the opening session
   * How to propose a session
   * How to run a session
-* Virtual open spaces
-* Examples (Links and stuff)
-* Freestyles
-* Further reading
+  * How to run a closing session (example)
+  * Other activities (e.g. afternoon, meals, karaoke, etc)
+* Additional resources
+  * Examples (links and stuff)
+  * Freestyles (e.g. virtual open spaces)
+  * Further reading
